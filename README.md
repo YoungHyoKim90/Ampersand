@@ -1,8 +1,3 @@
 # Ampersand
 
 #Hi There
-
-
-
-
-
